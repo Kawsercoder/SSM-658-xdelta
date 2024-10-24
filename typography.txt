@@ -1,0 +1,16 @@
+acumin-pro-condensed
+acumin-pro
+georama
+poppins
+
+
+#298843
+#FFFFFF
+#D47C00
+#FF0000
+#0B4B78
+#0E96D4
+#F5F5F5
+
+
+word wrap: Alt+Z
